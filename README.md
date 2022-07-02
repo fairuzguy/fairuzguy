@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Thinking of so many things, working on a subset of those things, and planning ahead for the rest :)
+
 <!--
 **fairuzguy/fairuzguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

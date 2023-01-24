@@ -2,6 +2,8 @@
 
 Thinking of so many things, working on a subset of those things, and planning ahead for the rest :)
 
+I've been programming for almost a decade. It's so much fun to bring to life ideas that aren't possible in the phyiscal world, despite the debugging that comes along with it. I yearn for the unknown and I love to learn new things every day :)
+
 <!--
 **fairuzguy/fairuzguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
